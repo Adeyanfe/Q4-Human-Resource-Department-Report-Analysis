@@ -28,4 +28,5 @@ ON Employee_Information.Employee_ID = Employee_Performance.Employee_ID;
 Data Cleaning
 ***************/
 
+
 -- 3. Find the total number of employees that have left the company
