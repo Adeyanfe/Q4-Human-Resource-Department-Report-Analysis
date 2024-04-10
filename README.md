@@ -1,4 +1,4 @@
-# Q4 Human Resource Department Report Analysis Using SQL
+# Human Resource Department Q4 Report Analysis Using SQL
 
 ## Project Overview
 
