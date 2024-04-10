@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Human Resource Turnover Analysis Project Respository! This project aims to analyze employee turnover patterns, and to gain deeper insight into the Employee Turnover Rates, Hiring Efficiency, and Staff Satisfaction of the company in order to develop a roadmap to improve employee retention and satisfaction.
+Welcome to the Human Resource Department Q4 Report Analysis! This project aims to analyze employee turnover patterns, and to gain deeper insight into the Employee Turnover Rates, Hiring Efficiency, and Staff Satisfaction of the company in order to develop a roadmap to improve employee retention and satisfaction.
 The analysis is based on a dataset containing employees information and performances.
 
 ## Full Project Article
