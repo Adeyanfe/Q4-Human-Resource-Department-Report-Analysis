@@ -1,0 +1,13 @@
+/****************
+Data Cleaning
+*****************/
+
+
+-- 1. Viewing all data from both table 
+---SQL
+SELECT *
+FROM Employee_information;
+-------TABLE 2
+
+SELECT *
+FROM Employee_Performance;
