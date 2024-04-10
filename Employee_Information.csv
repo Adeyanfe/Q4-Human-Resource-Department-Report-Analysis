@@ -1,0 +1,301 @@
+Employee_ID,Department,Position,Gender,Age,Hire_Date,Performance_Rating
+1,Operations,Associate,Female,56,2019-05-28 20:50:14,4
+2,Operations,Manager,Female,24,2010-11-21 11:11:55,3
+3,Finance,Manager,Non-Binary,56,2014-04-09 12:28:45,4
+4,Finance,Manager,Male,49,2016-02-17 00:20:34,3
+5,Marketing,Manager,Male,29,2015-08-28 16:39:50,1
+6,Marketing,Senior Associate,Male,38,2016-02-15 19:11:34,4
+7,IT,Intern,Non-Binary,34,2010-12-21 08:02:37,1
+8,Finance,Associate,Non-Binary,54,2016-07-13 10:15:29,4
+9,Operations,Manager,Female,41,2021-05-28 01:38:00,1
+10,Operations,Manager,Male,27,2015-10-22 05:20:37,2
+11,IT,Senior Associate,Female,28,2012-12-17 08:02:07,3
+12,Sales,Manager,Male,54,2014-11-05 06:10:39,3
+13,Operations,Senior Associate,Female,49,2018-02-06 12:32:20,3
+14,IT,Senior Associate,Non-Binary,57,2010-10-03 08:50:33,5
+15,Finance,Senior Associate,Non-Binary,44,2019-03-14 03:16:47,2
+16,Operations,Intern,Non-Binary,33,2018-07-31 12:54:32,4
+17,Marketing,Associate,Female,31,2015-02-25 18:47:23,4
+18,HR,Intern,Non-Binary,29,2015-06-07 14:22:14,1
+19,Operations,Senior Associate,Female,40,2014-08-06 13:08:49,5
+20,Finance,Manager,Male,40,2022-11-23 01:01:31,3
+21,IT,Intern,Male,33,2020-07-21 09:27:14,2
+22,Operations,Manager,Male,53,2020-08-30 20:13:44,4
+23,IT,Senior Associate,Non-Binary,40,2015-06-11 11:44:53,1
+24,Sales,Senior Associate,Female,37,2011-04-12 16:39:44,3
+25,Sales,Intern,Male,56,2015-12-09 21:11:53,2
+26,Marketing,Intern,Female,59,2010-05-04 02:35:04,5
+27,Sales,Manager,Non-Binary,37,2017-08-21 00:10:09,2
+28,IT,Senior Associate,Non-Binary,26,2020-08-03 01:58:33,1
+29,Sales,Senior Associate,Female,52,2012-12-15 21:56:55,4
+30,IT,Manager,Non-Binary,34,2016-02-09 01:18:14,5
+31,Operations,Senior Associate,Male,44,2020-06-21 17:40:26,4
+32,Finance,Intern,Male,49,2015-01-05 11:15:22,5
+33,Marketing,Intern,Non-Binary,39,2021-10-26 02:53:37,2
+34,IT,Intern,Non-Binary,42,2014-07-02 02:37:09,4
+35,Marketing,Associate,Female,28,2018-05-10 17:38:01,3
+36,Operations,Senior Associate,Female,30,2010-01-12 08:33:34,2
+37,Marketing,Manager,Non-Binary,51,2017-07-31 05:14:08,5
+38,IT,Intern,Male,44,2012-09-07 07:26:19,3
+39,IT,Senior Associate,Non-Binary,54,2014-02-24 22:56:20,5
+40,HR,Intern,Female,30,2015-11-30 19:28:00,2
+41,Operations,Senior Associate,Non-Binary,26,2013-12-20 18:40:11,1
+42,Operations,Manager,Female,51,2011-12-07 08:45:14,1
+43,IT,Associate,Male,47,2020-11-25 20:19:34,2
+44,Marketing,Intern,Male,52,2010-10-24 04:23:55,1
+45,Finance,Intern,Female,42,2016-06-19 10:50:12,2
+46,Sales,Intern,Female,41,2017-07-29 05:24:33,4
+47,Operations,Intern,Non-Binary,52,2016-06-12 03:40:43,2
+48,IT,Associate,Female,31,2020-12-31 15:56:18,1
+49,HR,Senior Associate,Non-Binary,40,2020-03-09 00:05:10,4
+50,Sales,Manager,Female,24,2010-08-17 00:51:08,3
+51,Sales,Associate,Non-Binary,48,2015-07-09 21:59:17,3
+52,Marketing,Senior Associate,Male,26,2010-06-08 07:57:32,3
+53,Marketing,Associate,Non-Binary,51,2021-07-16 02:13:16,5
+54,Marketing,Associate,Female,59,2010-03-20 19:55:17,3
+55,Sales,Senior Associate,Male,33,2017-10-24 10:50:12,4
+56,Marketing,Intern,Female,26,2014-04-03 17:26:37,5
+57,Marketing,Associate,Female,29,2013-08-11 13:52:00,1
+58,Sales,Associate,Non-Binary,47,2021-11-07 10:51:50,3
+59,Marketing,Intern,Female,36,2012-12-30 01:42:00,4
+60,Finance,Associate,Non-Binary,40,2017-11-30 17:39:46,4
+61,Finance,Associate,Non-Binary,28,2011-10-01 02:42:04,2
+62,Marketing,Senior Associate,Female,49,2021-11-01 00:38:33,4
+63,HR,Manager,Female,59,2022-07-22 10:42:36,1
+64,HR,Associate,Non-Binary,40,2016-10-23 00:43:05,5
+65,Marketing,Associate,Male,56,2019-07-24 22:44:50,5
+66,Sales,Senior Associate,Non-Binary,23,2010-12-13 10:09:24,4
+67,Finance,Manager,Female,58,2014-07-01 12:08:23,3
+68,Sales,Senior Associate,Male,25,2011-10-13 13:05:08,2
+69,Sales,Intern,Female,47,2012-05-02 10:01:58,5
+70,Marketing,Senior Associate,Female,48,2010-12-29 20:15:04,3
+71,HR,Associate,Female,55,2010-03-07 04:30:54,3
+72,Sales,Senior Associate,Female,45,2014-05-20 20:00:03,2
+73,Finance,Intern,Non-Binary,36,2017-03-14 02:25:28,2
+74,Sales,Intern,Male,37,2018-12-04 12:15:40,3
+75,HR,Senior Associate,Non-Binary,32,2021-03-28 18:04:51,2
+76,IT,Associate,Female,28,2019-11-20 07:53:03,1
+77,Sales,Associate,Female,29,2014-11-06 06:53:00,3
+78,Sales,Intern,Male,56,2011-03-01 00:15:01,4
+79,Operations,Manager,Female,60,2015-09-04 09:16:22,2
+80,Finance,Intern,Non-Binary,31,2018-03-12 16:08:31,3
+81,Finance,Intern,Non-Binary,40,2019-12-11 04:20:52,3
+82,Finance,Manager,Male,44,2015-10-05 04:45:49,5
+83,Operations,Senior Associate,Non-Binary,53,2014-07-08 17:13:50,2
+84,Sales,Manager,Male,54,2015-09-09 19:22:21,4
+85,HR,Associate,Non-Binary,37,2013-12-09 00:50:23,1
+86,Finance,Associate,Non-Binary,49,2010-10-21 19:10:19,1
+87,Finance,Manager,Female,31,2022-08-02 19:57:52,2
+88,HR,Intern,Non-Binary,60,2018-11-05 17:50:04,4
+89,HR,Intern,Male,60,2014-01-19 09:08:59,4
+90,Sales,Senior Associate,Male,33,2017-07-10 18:42:14,1
+91,Operations,Manager,Non-Binary,43,2018-11-26 19:35:07,1
+92,IT,Senior Associate,Male,33,2022-01-13 17:27:13,5
+93,Finance,Manager,Non-Binary,23,2010-04-21 21:02:49,2
+94,IT,Intern,Non-Binary,43,2021-07-16 15:46:05,5
+95,Sales,Intern,Non-Binary,31,2016-07-05 12:18:50,1
+96,Operations,Associate,Non-Binary,28,2015-06-04 06:57:58,2
+97,Finance,Intern,Non-Binary,54,2010-09-22 22:25:01,3
+98,Marketing,Intern,Non-Binary,42,2018-12-03 01:28:29,4
+99,HR,Manager,Female,60,2013-06-15 02:46:21,5
+100,IT,Associate,Non-Binary,37,2022-03-05 05:00:38,5
+101,IT,Intern,Female,28,2022-07-29 05:06:45,1
+102,Operations,Manager,Female,57,2011-12-11 13:05:35,2
+103,HR,Manager,Male,28,2019-07-21 12:46:47,2
+104,Finance,Manager,Male,52,2014-02-24 06:53:48,5
+105,Sales,Senior Associate,Non-Binary,55,2010-07-07 03:30:57,5
+106,Finance,Senior Associate,Female,53,2022-06-22 19:47:58,5
+107,Sales,Senior Associate,Female,40,2019-03-03 02:29:19,1
+108,Operations,Associate,Female,43,2015-04-29 15:25:56,4
+109,Marketing,Intern,Female,27,2012-07-19 03:48:45,3
+110,HR,Senior Associate,Male,35,2022-03-04 00:16:23,2
+111,HR,Associate,Non-Binary,24,2014-02-06 10:06:36,5
+112,Marketing,Intern,Male,47,2019-09-25 14:03:20,1
+113,IT,Senior Associate,Male,38,2018-05-18 22:22:08,4
+114,Sales,Manager,Male,54,2019-03-14 15:04:27,1
+115,HR,Associate,Female,43,2018-05-27 22:05:36,1
+116,Sales,Senior Associate,Non-Binary,36,2017-05-17 17:54:11,1
+117,Sales,Senior Associate,Male,59,2013-01-21 13:10:38,5
+118,Finance,Senior Associate,Male,43,2017-08-07 17:27:53,2
+119,Finance,Senior Associate,Female,38,2014-06-19 20:21:40,2
+120,Finance,Manager,Female,26,2012-12-04 13:30:00,4
+121,IT,Manager,Non-Binary,50,2010-08-27 09:10:32,2
+122,Finance,Intern,Male,30,2016-02-20 06:41:15,5
+123,Operations,Associate,Male,24,2021-06-29 04:49:47,3
+124,HR,Associate,Female,28,2015-01-11 07:20:06,5
+125,HR,Manager,Male,50,2022-07-11 03:38:01,5
+126,Finance,Intern,Male,39,2015-10-24 18:38:22,1
+127,Finance,Intern,Female,43,2020-08-27 09:24:42,2
+128,Marketing,Senior Associate,Non-Binary,38,2014-08-31 11:49:03,3
+129,Marketing,Manager,Male,50,2013-11-24 00:44:14,5
+130,Sales,Senior Associate,Male,23,2016-08-26 23:47:34,1
+131,Operations,Manager,Male,43,2010-02-04 00:08:05,5
+132,Finance,Intern,Female,42,2011-01-04 14:02:28,3
+133,IT,Associate,Male,37,2021-07-28 02:40:08,3
+134,Marketing,Manager,Female,44,2011-09-15 23:36:23,5
+135,HR,Associate,Male,45,2012-04-23 13:28:38,2
+136,HR,Manager,Male,44,2020-03-08 10:07:52,5
+137,HR,Intern,Male,46,2015-08-14 04:41:04,3
+138,Operations,Senior Associate,Non-Binary,34,2019-08-05 06:41:38,1
+139,Sales,Associate,Male,23,2012-10-22 09:51:23,5
+140,Marketing,Intern,Non-Binary,47,2010-05-01 08:35:53,4
+141,IT,Manager,Non-Binary,59,2010-09-16 08:40:04,3
+142,Finance,Intern,Male,56,2019-01-30 20:49:17,1
+143,Operations,Intern,Male,41,2012-10-07 12:58:32,3
+144,Operations,Intern,Female,47,2019-11-09 23:27:09,3
+145,HR,Senior Associate,Female,60,2012-08-20 15:55:27,3
+146,IT,Senior Associate,Female,23,2011-05-04 01:46:30,1
+147,Marketing,Manager,Male,56,2012-05-17 03:07:08,3
+148,Sales,Manager,Non-Binary,29,2012-07-27 20:24:07,5
+149,HR,Senior Associate,Male,42,2019-04-27 15:27:17,2
+150,HR,Intern,Male,23,2013-03-06 00:13:52,3
+151,Operations,Associate,Non-Binary,49,2016-12-06 19:09:15,1
+152,Marketing,Associate,Non-Binary,31,2016-08-13 19:06:20,1
+153,Sales,Senior Associate,Male,27,2010-04-27 08:56:44,5
+154,Marketing,Manager,Male,30,2016-04-13 10:05:09,4
+155,Operations,Associate,Non-Binary,25,2014-11-26 21:27:08,1
+156,Operations,Associate,Male,57,2015-11-10 06:59:20,4
+157,Marketing,Manager,Female,40,2019-08-03 12:08:08,2
+158,Marketing,Senior Associate,Female,34,2010-04-10 07:22:00,4
+159,IT,Manager,Male,45,2014-01-14 04:47:04,5
+160,IT,Intern,Female,37,2020-01-03 21:11:28,4
+161,Marketing,Manager,Female,58,2010-03-04 02:38:38,3
+162,Marketing,Intern,Male,27,2016-04-03 01:43:51,1
+163,HR,Associate,Non-Binary,36,2016-04-01 14:14:47,2
+164,Finance,Associate,Male,49,2015-10-29 07:27:47,5
+165,Sales,Intern,Male,42,2011-06-21 03:04:37,4
+166,IT,Senior Associate,Female,40,2019-10-11 22:05:36,5
+167,Operations,Manager,Non-Binary,23,2021-07-03 20:09:47,1
+168,Marketing,Senior Associate,Female,26,2021-08-29 12:12:05,1
+169,Finance,Senior Associate,Non-Binary,51,2016-04-24 01:04:48,1
+170,HR,Intern,Non-Binary,39,2016-03-19 15:02:09,1
+171,Finance,Senior Associate,Non-Binary,46,2011-02-07 02:56:01,2
+172,Sales,Associate,Male,35,2016-12-19 03:20:23,4
+173,Operations,Manager,Non-Binary,32,2013-03-12 11:18:28,4
+174,Sales,Manager,Non-Binary,50,2016-02-21 12:40:33,5
+175,Sales,Senior Associate,Non-Binary,22,2019-10-14 21:37:48,2
+176,Finance,Manager,Non-Binary,32,2014-04-17 20:01:22,2
+177,Marketing,Associate,Male,22,2012-07-23 00:18:36,5
+178,IT,Associate,Non-Binary,32,2013-08-15 07:03:29,1
+179,Finance,Intern,Non-Binary,58,2018-12-03 07:41:13,1
+180,Marketing,Associate,Female,25,2013-02-26 15:51:09,1
+181,Finance,Associate,Non-Binary,27,2020-03-19 01:29:23,4
+182,HR,Associate,Male,45,2012-04-18 10:11:21,4
+183,Finance,Associate,Male,25,2018-08-08 13:35:03,3
+184,Operations,Senior Associate,Male,36,2011-11-25 03:35:11,2
+185,HR,Manager,Female,36,2015-06-04 08:07:53,4
+186,Sales,Intern,Male,53,2019-11-25 17:50:07,1
+187,IT,Manager,Male,38,2019-11-30 23:16:30,3
+188,Operations,Manager,Female,41,2019-07-10 03:23:16,4
+189,HR,Senior Associate,Female,58,2020-08-21 08:12:01,5
+190,HR,Senior Associate,Female,45,2020-07-23 16:21:15,2
+191,HR,Associate,Non-Binary,56,2011-08-20 21:58:26,5
+192,Sales,Intern,Female,42,2020-06-27 13:19:29,3
+193,Sales,Senior Associate,Non-Binary,53,2012-10-25 08:29:51,5
+194,HR,Associate,Male,54,2016-02-01 12:45:03,2
+195,Finance,Associate,Male,25,2014-05-07 02:02:44,1
+196,Sales,Associate,Female,37,2017-12-17 19:49:35,4
+197,HR,Associate,Female,30,2014-06-18 16:20:53,4
+198,Marketing,Manager,Male,35,2017-08-07 09:42:56,5
+199,Sales,Manager,Male,36,2013-02-23 01:42:34,1
+200,Finance,Intern,Male,28,2016-09-20 04:24:03,2
+201,HR,Manager,Female,30,2017-02-14 00:57:30,3
+202,HR,Intern,Non-Binary,28,2016-02-18 08:47:13,4
+203,IT,Intern,Male,24,2011-08-29 05:44:17,2
+204,IT,Manager,Non-Binary,60,2015-05-26 02:52:36,5
+205,Marketing,Manager,Female,57,2012-07-19 07:04:19,2
+206,Sales,Intern,Non-Binary,27,2014-06-01 03:13:55,2
+207,Marketing,Senior Associate,Non-Binary,59,2013-01-19 07:06:18,1
+208,Marketing,Intern,Non-Binary,49,2015-09-20 19:03:47,2
+209,Marketing,Senior Associate,Non-Binary,51,2017-08-13 09:51:16,1
+210,Marketing,Intern,Female,50,2011-05-18 17:40:57,3
+211,HR,Manager,Male,47,2016-05-13 23:53:50,3
+212,Operations,Associate,Male,22,2016-05-11 20:36:32,3
+213,Finance,Intern,Male,55,2014-07-24 18:05:13,3
+214,HR,Associate,Male,42,2021-04-09 10:59:24,2
+215,IT,Associate,Male,55,2015-12-27 03:33:55,2
+216,IT,Senior Associate,Male,35,2012-07-11 09:57:48,5
+217,Finance,Manager,Female,30,2017-01-16 15:36:19,4
+218,Finance,Intern,Male,41,2013-07-09 19:34:54,3
+219,Marketing,Associate,Non-Binary,57,2013-05-26 01:18:12,1
+220,IT,Senior Associate,Non-Binary,40,2012-09-06 23:17:05,4
+221,Marketing,Manager,Non-Binary,47,2019-11-27 12:39:54,1
+222,Marketing,Senior Associate,Non-Binary,60,2017-10-27 16:20:53,5
+223,Finance,Intern,Male,55,2020-02-12 17:35:53,4
+224,HR,Intern,Female,25,2017-04-06 17:27:35,2
+225,Sales,Senior Associate,Female,51,2021-03-18 04:12:45,4
+226,Marketing,Manager,Female,58,2019-12-25 03:20:08,2
+227,Operations,Senior Associate,Male,58,2021-12-18 22:53:07,4
+228,Sales,Associate,Male,37,2014-02-26 13:56:21,4
+229,HR,Senior Associate,Female,47,2010-01-10 18:40:22,2
+230,IT,Associate,Male,38,2016-03-21 14:20:59,5
+231,IT,Manager,Female,57,2012-04-28 01:26:42,4
+232,Marketing,Associate,Female,41,2010-07-11 15:26:55,5
+233,Operations,Associate,Non-Binary,29,2017-07-03 19:43:25,3
+234,IT,Intern,Non-Binary,42,2016-12-17 11:08:36,1
+235,Sales,Senior Associate,Non-Binary,58,2019-08-29 00:17:54,5
+236,IT,Manager,Non-Binary,38,2011-08-12 14:09:17,5
+237,Marketing,Senior Associate,Non-Binary,54,2010-11-21 11:01:38,2
+238,IT,Associate,Male,39,2016-08-10 00:16:28,2
+239,Operations,Senior Associate,Male,50,2014-12-04 05:50:32,5
+240,Marketing,Intern,Non-Binary,50,2020-08-18 17:05:42,4
+241,Finance,Associate,Male,28,2021-09-26 17:17:32,4
+242,Marketing,Manager,Female,59,2013-05-23 13:28:34,2
+243,Finance,Manager,Female,41,2017-05-01 08:44:53,5
+244,IT,Intern,Female,42,2010-01-20 02:48:04,1
+245,Sales,Intern,Female,26,2022-02-02 03:23:55,5
+246,IT,Manager,Male,49,2020-06-08 01:42:33,1
+247,Sales,Senior Associate,Male,43,2013-11-25 16:38:39,2
+248,IT,Manager,Female,22,2016-11-15 02:42:22,2
+249,Marketing,Associate,Female,28,2020-06-15 08:35:21,3
+250,Marketing,Intern,Female,43,2018-04-02 17:15:34,1
+251,Operations,Senior Associate,Female,59,2018-05-26 17:53:13,3
+252,Finance,Associate,Male,28,2020-03-16 17:09:14,1
+253,Finance,Intern,Male,57,2017-03-26 23:17:24,2
+254,IT,Associate,Female,34,2016-11-10 20:23:24,5
+255,HR,Senior Associate,Female,58,2016-11-21 20:47:55,5
+256,Marketing,Manager,Male,22,2011-01-15 07:44:38,5
+257,Finance,Associate,Male,23,2015-04-11 02:13:12,2
+258,Sales,Senior Associate,Male,23,2012-12-29 22:41:23,5
+259,Operations,Manager,Female,41,2012-11-05 20:29:47,4
+260,Finance,Intern,Female,51,2015-06-14 23:23:31,3
+261,Sales,Intern,Non-Binary,29,2012-01-28 04:45:53,1
+262,HR,Associate,Non-Binary,55,2018-07-29 14:20:01,3
+263,Sales,Associate,Male,23,2020-08-06 13:19:14,2
+264,IT,Senior Associate,Male,53,2017-08-23 16:58:40,1
+265,Marketing,Senior Associate,Male,37,2012-09-15 23:35:45,5
+266,IT,Manager,Non-Binary,39,2019-10-15 08:22:34,2
+267,Marketing,Intern,Non-Binary,54,2016-08-20 02:54:12,4
+268,Sales,Senior Associate,Male,41,2013-11-16 13:20:39,5
+269,Finance,Senior Associate,Non-Binary,38,2022-03-20 22:09:23,3
+270,Sales,Associate,Male,34,2012-02-21 07:57:31,4
+271,HR,Senior Associate,Female,47,2014-05-07 13:51:01,1
+272,Sales,Senior Associate,Non-Binary,60,2010-04-21 11:16:21,2
+273,HR,Intern,Non-Binary,50,2017-10-14 14:44:46,5
+274,IT,Senior Associate,Female,52,2015-05-03 16:51:23,3
+275,Operations,Manager,Male,41,2018-03-01 19:13:05,2
+276,HR,Manager,Non-Binary,43,2015-12-04 04:06:00,3
+277,Finance,Senior Associate,Female,22,2018-08-23 18:15:03,1
+278,Operations,Intern,Male,58,2022-11-10 17:39:16,3
+279,Finance,Intern,Female,60,2013-09-23 02:44:00,4
+280,HR,Intern,Non-Binary,60,2015-04-25 09:10:33,3
+281,Operations,Manager,Non-Binary,40,2019-08-28 20:11:27,3
+282,HR,Senior Associate,Male,28,2010-06-27 12:12:47,1
+283,HR,Associate,Female,43,2018-05-11 01:42:32,3
+284,IT,Associate,Non-Binary,27,2021-11-01 21:45:54,1
+285,Finance,Manager,Male,31,2012-05-03 20:30:19,3
+286,Sales,Senior Associate,Female,46,2014-08-13 11:38:20,3
+287,IT,Associate,Male,51,2013-07-10 08:23:06,2
+288,Sales,Intern,Female,38,2016-05-11 17:42:51,3
+289,Operations,Intern,Non-Binary,44,2010-04-07 11:58:44,2
+290,HR,Manager,Female,39,2014-11-18 19:00:42,2
+291,Finance,Associate,Female,36,2020-08-09 13:22:33,2
+292,IT,Manager,Non-Binary,33,2017-05-06 00:59:24,2
+293,HR,Intern,Non-Binary,57,2022-06-20 18:05:28,4
+294,IT,Associate,Non-Binary,51,2013-11-09 03:28:39,1
+295,Sales,Senior Associate,Non-Binary,51,2010-02-11 13:03:00,5
+296,Operations,Manager,Male,38,2013-10-03 05:37:25,3
+297,HR,Manager,Female,52,2020-05-12 22:24:31,2
+298,Sales,Associate,Non-Binary,28,2016-08-01 09:49:10,3
+299,HR,Intern,Non-Binary,27,2012-04-06 21:00:01,4
+300,HR,Senior Associate,Male,33,2014-04-25 04:29:15,1
