@@ -187,7 +187,7 @@ FROM Employee_Performance
 WHERE Termination_year = 2022
 GROUP BY Training_Hours_last_year
 ORDER BY Turnover DESC;
--- Answer = There is no correlation
+-- Answer = There is no correlation between regular training and turnover
 
 -- 5. What is the employee satisfaction score for this quarter as compared to the previous quarter of the year? As compared to the same quarter of the previous year?
 -- 5.1 What is the employee Satisfaction Score for Q4 as compared to previous quarter of the year 2023?
@@ -211,6 +211,7 @@ AVG(Employee_Satisfaction_Score) AS Employee_Satisfaction
 FROM Employee_Performance
 WHERE termination_year = 2023
 GROUP BY Employee_ID;
+-- Answer = There is no correlation between the two metrics.
 
 -- 7. How does satisfaction scores vary across different departments?
 SELECT Department, AVG(Employee_Satisfaction_Score) AS Average_Satisfaction_Score
@@ -226,6 +227,7 @@ AVG(Employee_Satisfaction_Score) AS Average_Satisfaction_Score
 FROM Employee_Performance
 Where Termination_year = 2023
 GROUP BY Training_Hours_last_year;
+-- Answer = There is no correlation between the two metrics.
 
 -- 9. What is the employee satisfaction scores across the company?
 SELECT Employee_Satisfaction_Score, COUNT(Employee_ID) AS Frequency
