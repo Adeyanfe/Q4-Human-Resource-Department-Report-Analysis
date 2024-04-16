@@ -1,18 +1,1 @@
-SELECT *
-FROM Employee_information;
--------TABLE 2
 
-SELECT *
-FROM Employee_Performance;
-
-SELECT *
-FROM Employee_Information
-JOIN Employee_Performance
-ON Employee_Information.Employee_ID = Employee_Performance.Employee_ID;
-
-SELECT Count(*) AS total_employees
-FROM
-(SELECT employee_id FROM Employee_Performance
- UNION 
-  SELECT employee_id FROM Employee_Information)
-  AS combined_tables;
