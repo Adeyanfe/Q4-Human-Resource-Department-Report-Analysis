@@ -16,3 +16,10 @@ A detailed description of the project, insights, and recommendations is on the f
 Feel free to reach out to me with any suggestions or questions regarding the project or the analysis.
 
 Thank you!
+
+```sql
+SELECT *
+FROM Employee_Information
+JOIN Employee_Performance
+ON Employee_Information.Employee_ID = Employee_Performance.Employee_ID;
+```
